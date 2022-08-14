@@ -1,25 +1,22 @@
-<h1 align='center'>Hi there , I'm Ujjwal 👋🏻</h1><br>
+<h1 align='center'>Hi there , I'm Aditya 👋🏻</h1><br>
 
 <a target="_blank">
   <img align="right" height="200" width="300" src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/code.svg">
 </a>
 
-- 🔭 Trying to learn everything. 😁
-- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙿𝚢𝚝𝚑𝚘𝚗, 𝙲++, 𝙹𝚊𝚟𝚊, 𝚆𝚎𝚋 𝙳𝚎𝚟𝚕𝚘𝚙𝚖𝚎𝚗𝚝 , 𝙻𝚒𝚗𝚞𝚡**
-- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <span>[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ujjwal-7a3ba31ba/)   [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:ujsk07@gmail.com)</span>
+- 🔭 Learning Python (Panda,NumPy,Matplotlib). 😁
+- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙿𝚢𝚝𝚑𝚘𝚗, 𝙲++, 𝚆𝚎𝚋 𝙳𝚎𝚟𝚕𝚘𝚙𝚖𝚎𝚗𝚝 , 𝙻𝚒𝚗𝚞𝚡**
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <span>[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/aditya12sc/)   [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:aditya12sc@gmail.com)</span>
 
 <br/>
 &emsp;&emsp;<a href="#">
-    <img src="https://komarev.com/ghpvc/?username=UjjwalSk&color=blueviolet">
+    <img src="https://komarev.com/ghpvc/?username=kozuki-oden&color=red">
 </a>
 
 <br/>
-&emsp;&emsp;<a href='https://www.codechef.com/users/ujju07'><img src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'/></a>
-<a href='https://www.hackerrank.com/CoDeZ_0'><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'/></a>
-<a href='https://auth.geeksforgeeks.org/user/neofetch/practice/'><img src='https://img.shields.io/badge/-geeksforgeeks-080704?style=for-the-badge&logo=geeksforgeeks'/></a>
 
-<br/>
-<br/>
+
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipulhere" alt="vipulhere" /></a> </p>
 
